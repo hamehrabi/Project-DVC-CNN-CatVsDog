@@ -10,11 +10,14 @@ artifacts:
   BASE_LOG_DIR: base_model_dir
   TENSORBOARD_ROOT_LOG_DIR: tensorboard_log_dir
   CALLBACKS_DIR: callbacks
+  DATA_DIR: data
 
-source_download_dirs:
-  - path_to_data_1
-  - path_to_data_1
+# you can download the dataset from the link: https://drive.google.com/drive/folders/1Z2c3e_rGBGV8wHValqT6Va4uomP246Lv?usp=sharing
+# if you download the dataset, you need to store it outside of the project directory and then call it through the method below.
+source_data_dirs:
+  - ../outside_data/cat
+  - ../outside_data/dog
 
 local_data_dirs:
-  - path_to_local_data_1
-  - path_to_local_data_2
+  - data/cat
+  - data/dog
