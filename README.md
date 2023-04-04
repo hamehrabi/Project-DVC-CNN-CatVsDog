@@ -11,6 +11,11 @@ This ML project involves binary classification of dogs and cats using transfer l
 <img src="https://user-images.githubusercontent.com/62473531/229567697-a85f4b6e-80e6-48ef-8220-c4ef320ef395.png" alt="workflow" width="70%">
 <img src="https://user-images.githubusercontent.com/62473531/229567276-0e590d11-d271-4b09-9800-d096b8f9b4d2.JPG" alt="workflow" width="70%">
 
+## 🐨 DagsHub Data Pipeline
+<img src="https://user-images.githubusercontent.com/62473531/229724864-b6ac2f67-8a31-4645-94f5-7e391310af05.JPG" alt="workflow" width="70%">
+
+Complete Project Data Pipeline is available at [DagsHub Data Pipeline](https://dagshub.com/hamehrabi/Project-DVC-CNN-CatVsDog)
+
 ### 🔥 Technologies Used:
 ``` 
 1. Python 
