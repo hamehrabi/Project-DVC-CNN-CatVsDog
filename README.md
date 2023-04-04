@@ -24,6 +24,13 @@ Complete Project Data Pipeline is available at [DagsHub Data Pipeline](https://d
 4. DVC
 ```
 
+## 🔌 Infrastructure:
+```
+1. AWS S3
+2. GitHub
+3. DaghsHub
+```
+
 ## 👷 Initial Setup: 
 ```commandline
 conda create --prefix ./env python=3.9
